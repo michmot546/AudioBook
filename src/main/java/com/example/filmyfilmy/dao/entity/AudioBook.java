@@ -1,4 +1,4 @@
-package com.example.filmyfilmy;
+package com.example.filmyfilmy.dao.entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
